@@ -1,0 +1,28 @@
+.header-container {
+    display: flex;
+    gap: 30px;
+
+}
+
+.container-items-sold {
+    border: 2px dashed green;
+    background-color: lightgreen;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container-items-bought {
+    border: 2px dashed blue;
+    background-color: lightblue;
+    border-radius: 15px;
+
+    text-align: center;
+
+}
+
+.container-items-to-sell {
+    border: 2px dashed red;
+    background-color: lightpink;
+    border-radius: 15px;
+    text-align: center;
+}
