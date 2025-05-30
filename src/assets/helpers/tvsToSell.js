@@ -9,3 +9,4 @@ function tvsToSell(productArray){
 }
 
 export default tvsToSell;
+

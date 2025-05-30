@@ -9,14 +9,17 @@
     background-color: lightgreen;
     border-radius: 15px;
     text-align: center;
+    padding: 10px;
+
 }
 
 .container-items-bought {
     border: 2px dashed blue;
     background-color: lightblue;
     border-radius: 15px;
-
     text-align: center;
+    padding: 10px;
+
 
 }
 
@@ -25,4 +28,34 @@
     background-color: lightpink;
     border-radius: 15px;
     text-align: center;
+    padding: 10px;
 }
+
+.main-container {
+    border: 3px dashed grey;
+    background-color: lightgrey;
+    border-radius: 15px;
+    display: flex;
+    padding: 20px 20px;
+    gap: 20px;
+
+}
+
+.image-wrapper {
+    display: flex;
+}
+
+.main-container img {
+    width: 100%;
+}
+
+.applications img {
+    height: 15px;
+    width: auto;
+    margin-right: 5px;
+}
+
+.tv-price {
+    font-size: 30px;
+}
+
